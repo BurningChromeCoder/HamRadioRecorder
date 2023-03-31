@@ -1,0 +1,2 @@
+# HamRadioRecorder
+Este script de grabación de audio utiliza VLC para grabar audio desde una fuente en línea y guardarlo como un archivo MP3 en su computadora local. Puede personalizar la fuente de origen, la duración de la grabación y la ubicación del archivo de salida. Es una herramienta útil para grabar programas de radio en línea o cualquier otro contenido de audio que desee guardar localmente. 
