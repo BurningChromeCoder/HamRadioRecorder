@@ -34,7 +34,7 @@ if "icy-br" in headers:
     print("Bitrate: ", headers["icy-br"], "kb/s")
 print("--------------------------------------------")
 
-filename = f"Programa-Contactos_{datetime.now().strftime('%Y-%m-%d-%H-%M')}.mp3"
+filename = f"Programa-Contactos_{datetime.now().strftime('%Y-%m-%d-%H-%M')}.mp4"
 file = open(filename, "wb")
 start_time = datetime.now()
 counter = 0
